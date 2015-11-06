@@ -1,0 +1,13 @@
+/home/luxs/Downloads/json-master/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.mdb
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/luxs/Downloads/json-master/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/luxs/Downloads/json-master/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe.mdb
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/Microsoft.Threading.Tasks.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/Newtonsoft.Json.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/System.Net.Http.Extensions.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/System.Net.Http.Primitives.dll
+/home/luxs/Downloads/json-master/ConsoleApplication1/bin/Debug/unirest-net.dll

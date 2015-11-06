@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ConsoleApplication1/ConsoleApplication1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication1/Program.cs">
+    <Files>
+      <File FileName="ConsoleApplication1/Program.cs" Line="18" Column="44" />
+      <File FileName="ConsoleApplication1/packages.config" Line="1" Column="1" />
+      <File FileName="ConsoleApplication1/JsonSerialisation.cs" Line="13" Column="6" />
+      <File FileName="ConsoleApplication1/CompanySearchResult.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApplication1/App.config" Line="1" Column="1" />
+      <File FileName="ConsoleApplication1/Properties/AssemblyInfo.cs" Line="12" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
